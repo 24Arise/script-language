@@ -9,6 +9,8 @@
 
 [ 3 ][ *Download table list from choerodon* ](./01%20shell/03%20downlod-table-list.sh)
 
+[ 4 ][ *Batch import project from choerodon* ](./01%20shell/04%20batch-import-project.sh)
+
 
 
 ## SQL script
