@@ -1,7 +1,11 @@
-# script-language 
+# *script-language*
+
+*The current project is a compilation of various scripts that are organized for efficiency in daily work,* 
+
+*including shell scripts, database SQL scripts, and so on.*
 
 
-## Shell script
+## *Shell script*
 
 [ 1 ][ *Delete nginx processes in batches* ](./01%20shell/01%20delete-nginx-processes.sh)
 
@@ -11,9 +15,11 @@
 
 [ 4 ][ *Batch import project from choerodon* ](./01%20shell/04%20batch-import-project.sh)
 
+[ 5 ][ *Copy files from git commits* ](./01%20shell/05%20copy-files-from-commits.sh)
 
+[ 6 ][ *Split a large file into multiple smaller files* ](./01%20shell/06%20split-file.sh)
 
-## SQL script
+## *SQL script*
 
 [ 1 ][ *Change column lower script* ](./02%20sql/01%20Change%20column%20lower%20script.sql)
 
